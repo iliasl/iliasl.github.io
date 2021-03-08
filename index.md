@@ -4,7 +4,7 @@ title: Ilias Leontiadis
 
 ---
 
-I am currently a Senior Research Scientist at [Samsung AI](https://research.samsung.com/aicenter_cambridge){:target="_blank"}. 
+I am currently a Principal Research Scientist at [Samsung AI](https://research.samsung.com/aicenter_cambridge){:target="_blank"}. 
 Before,  I was as Senior Researcher at [Telefonica Research](http://www.tid.es/research){:target="_blank"} and a research fellow at the [University of Cambridge](https://www.cl.cam.ac.uk/){:target="_blank"}. I received my PhD from [University College London (UCL)](http://www.cs.ucl.ac.uk/home/){:target="_blank"} under the supervision of [Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/){:target="_blank"}.
 
 
