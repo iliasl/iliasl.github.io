@@ -4,11 +4,14 @@ title: Research
 permalink: /research/
 ---
 
-# Current Research
+# Current Research 
+At Facebook I am currently working on privacy-preserving ML and on-device Machine learning. 
 
-At Samsung AI I am currently working on the intersection of systems, networks and AI. More specifically, my research involves designing and implementing novel system architectures that will allow the execution of complex AI model on computationally restricted devices such as smartphones, wearables, IoTs, robots, etc. Moreover, I am particularly interested in distributed machine learning both for inference (offloading to the edge/cloud) and training (federated learning and on-device personalization)
 
-Some of the projects that I am involved in or reading include:
+# Past Research Samsung AI
+
+At Samsung AI I was working on the intersection of systems, networks and AI. I was particularly interested in distributed machine learning both for inference (offloading to the edge/cloud) and training (federated learning and on-device personalization)
+
 
 #### Federated Learning
 Federated Learning is quickly gaining traction in privacy-centric distributed deployments of ML models.
@@ -39,8 +42,8 @@ Embedded AI is supported by great tools such as Tensorflow Lite and Caffe2. Howe
 Machine learning has a big impact on cellular networks. We are looking into the research areas of network automation, zero configuration, monitoring and anomaly detection, self-healing and RAN optimization with the help of deep-learning.
 
 
-# Past Research
-In my previous post (Senior Researcher at Telefonica Research), I was also using AI on big-data to support the cellular and fixed network of millions of customers. Some of the projects that I have worked on include:
+# Past Research Telefonica
+At Telefonica Research, I was also using AI on big-data to support the cellular and fixed network of millions of customers. Some of the projects that I have worked on include:
 
 #### Anomaly detection 
 In Telefonica I was leading a project on using deep-learning to detect anomalies and outliers in large-scale cellular networks.  The main idea is to identify anomalies, correlate them together and identify the root cause. Furthermore, we were using SDN/NVFs to automatically intervene and auto-heal the network. 
