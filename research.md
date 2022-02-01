@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 # Current Research 
-At Facebook I am currently working on privacy-preserving ML and on-device Machine learning. 
+At Meta I am currently working on privacy-preserving ML and on-device Machine learning. 
 
 
 # Past Research Samsung AI
