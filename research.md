@@ -5,23 +5,32 @@ permalink: /research/
 ---
 
 # Current Research 
-At Meta I am currently working on privacy-preserving ML and on-device Machine learning. 
+At Meta I am currently working on On-device Machine Learning, and Federated Learning. 
 
 
 # Past Research Samsung AI
 
-At Samsung AI I was working on the intersection of systems, networks and AI. I was particularly interested in distributed machine learning both for inference (offloading to the edge/cloud) and training (federated learning and on-device personalization)
+At Samsung AI I was leading an applied research group working on the intersection of systems, networks and AI. I was particularly interested in distributed machine learning for inference and training. Furthermore, I conducted applied research on various SysML aspects such as  on-device machine learning, Model Convergence,  Model Optimizations, GPU/TPU efficiency and Neural Architecture Search for efficient AI.   
 
 
 #### Federated Learning
 Federated Learning is quickly gaining traction in privacy-centric distributed deployments of ML models.
 The aim of this research is to explore how we can train different model architectures in a massively scalable Federated Learning setup, where heterogeneous clients, both in terms of data (non-iid) and compute capabilities exist. Furthermore, we are looking how biases in the data affect the resulting models.
 
+
+#### Model Optimization 
+Worked on accelerating AI models through quantization, pruning and Neural architecture search. Our tooling helped to improve both inference and training performance to support real-time AI. 
+
+
+
 #### On-Device personalization 
 Machine learning models are typically over-provisioned to support a wide variety of input distributions. For example, an ASR system has to support people with various demographics,  accents, different microphone configurations, a large number of possible noisy environments, etc. These wide distributions result in rather large models that can only be compressed that much.
 However, once installed, these systems are typically used by a single individual that has some specific input distributions. For example, in the ASR example specific age, accent, environment etc. 
-On-device learning can help us personalize these models to remove any biases, improve accuracy and even reduce computational complexity.  We use state-of-the-art teqniques such as self-supervision and  Meta-Learning techniques to support efficient on-device personalization.
+On-device learning can help us personalize these models to remove any biases, improve accuracy and even reduce computational complexity.  We use state-of-the-art techniques such as self-supervision and  Meta-Learning techniques to support efficient on-device personalization.
 
+
+#### Efficient training 
+Worked on few-shot learning and semi-supervised learning (with proxy labels). Our main focus was to accelerate FL convergence with few labeled samples. This includes improving training for personalized Speech and Vision models. 
 
 
 #### AI offloading
@@ -35,7 +44,7 @@ In this work we conduct research on offloading AI computation to the edge and th
 Mobile devices might have a wide range of available computation capabilities that can support AI tasks (e..g, CPUs, GPUs, DSPs, NPUs, FPGAs). At the same time more and more models are being deployed and many of them have to be concurrently executed. In this work we look how we can schedule this computation on a heterogeneous computation platform in order to maximize the overall throughput, minimize energy consumption  while satisfying the application QoE requirements.
 
 #### AI backend optimizations
-Embedded AI is supported by great tools such as Tensorflow Lite and Caffe2. However, mobile execution is still in its infancy. Frequently operators are not supported or they are not optimized for mobile execution. Furthermore, AI libraries are not always included or supported by the vendors. Furthermore, memory and energy restrictions might require us to make compromises in terms of the complexity of the models. In this project our goal is to research novel tools that will help us compile, compress, quantise, distill and execute models on mobile and embedded devices. 
+Embedded AI is supported by great tools such as Tensorflow Lite and Caffe2. However, mobile execution is still in its infancy. Frequently operators are not supported or they are not optimized for mobile execution. Furthermore, AI libraries are not always included or supported by the vendors. Furthermore, memory and energy restrictions might require us to make compromises in terms of the complexity of the models. In this project our goal is to research novel tools that will help us compile, compress, quantize, distill and execute models on mobile and embedded devices. 
 
 
 #### Cellular networks and AI
