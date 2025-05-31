@@ -5,7 +5,12 @@ permalink: /research/
 ---
 
 # Current Research 
-At Meta I am currently working on On-device Machine Learning, and Federated Learning. 
+### GenAI / Large Language models with the Llama AI Frontier team
+At Meta I am currently working within the GenAI organization (AI Frontier) on advancing the development of large language models. My current focus lies in building robust evaluation frameworks, AI judges, and reward models to support the training and assessment of cutting-edge generative AI systems.
+
+### AI on RL Devices and On-Device ML
+Before I was working towards deploying and training AI model within wearable devices (VR/AR Glasses, Meta AI glasses). Furthermore, I worked on improving our ranking algorithims with the use of on-device signals. 
+
 
 
 # Past Research Samsung AI
