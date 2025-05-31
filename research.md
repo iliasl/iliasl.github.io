@@ -27,7 +27,6 @@ The aim of this research is to explore how we can train different model architec
 Worked on accelerating AI models through quantization, pruning and Neural architecture search. Our tooling helped to improve both inference and training performance to support real-time AI. 
 
 
-
 #### On-Device personalization 
 Machine learning models are typically over-provisioned to support a wide variety of input distributions. For example, an ASR system has to support people with various demographics,  accents, different microphone configurations, a large number of possible noisy environments, etc. These wide distributions result in rather large models that can only be compressed that much.
 However, once installed, these systems are typically used by a single individual that has some specific input distributions. For example, in the ASR example specific age, accent, environment etc. 
