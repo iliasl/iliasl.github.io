@@ -4,103 +4,108 @@ title: Research
 permalink: /research/
 ---
 
-# Current Research 
-### GenAI / Large Language models with the Llama AI Frontier team
-At Meta I am currently working within the GenAI organization (AI Frontier) on advancing the development of large language models. My current focus lies in building robust evaluation frameworks, AI judges, and reward models to support the training and assessment of cutting-edge generative AI systems.
+# Google | Gemini Agentic Intelligence
 
-### AI on RL Devices and On-Device ML
-Before I was working towards deploying and training AI model within wearable devices (VR/AR Glasses, Meta AI glasses). Furthermore, I worked on improving our ranking algorithims with the use of on-device signals. 
+<div class="project-card">
+  <div class="project-image">
+    <img src="/assets/images/research/gemini_agent.svg" alt="Gemini Agentic Intelligence">
+  </div>
+  <div class="project-content">
+    <h3>Gemini and CoreML</h3>
+    <p>Advancing the capabilities of Gemini through core agentic infrastructure, cognitive architecture, and rigorous evaluation methodologies.</p>
+    <ul>
+        <li><strong>Agentic Orchestration & Memory:</strong> Architecting computational harnesses for complex reasoning, tool-use, and stateful memory systems that allow agents to retain context and self-improve over time.</li>
+        <li><strong>Auto-Prompt Optimization:</strong> To optimize long-running agentic worfklows to improve efficiency and accuracy.</li>
+        <li><strong>Dense Rewards & Evaluation:</strong> Working on dense reward modeling for step-by-step fine-tuning and creating comprehensive benchmarking environments to assess agent autonomy, safety, and reasoning.</li>
+    </ul>
+  </div>
+</div>
 
+# Meta | Superintelligence Lab
 
+<div class="project-card">
+  <div class="project-image">
+    <img src="/assets/images/research/llama_eval.svg" alt="Llama 3 & 4 Evaluation">
+  </div>
+  <div class="project-content">
+    <h3>GenAI & LLM Evaluation and Reward Modelling</h3>
+    <p>Applied research focused on developing evaluation frameworks and reward models for Meta's foundational models, specifically Llama 3 and Llama 4.</p>
+    <ul>
+        <li><strong>Llama 3 & 4 Evaluation:</strong> Led evaluation strategies and developed AI judges/reward models for safety, reasoning, and multimodal capabilities, serving as critical signals for post-training.</li>
+        <li><strong>Alignment Research:</strong> Utilized SFT and GRPO techniques to align AI judges with human ground truth, creating "universal judges" that strictly adhere to complex rubrics.</li>
+    </ul>
+  </div>
+</div>
 
-# Past Research Samsung AI
+<div class="project-card">
+  <div class="project-image">
+    <img src="/assets/images/research/agentic_systems.svg" alt="Agentic Systems">
+  </div>
+  <div class="project-content">
+    <h3>Agentic Systems & Automation</h3>
+    <p>Focused on architecting agentic systems and automated toolsets to enhance the efficiency of the research lifecycle.</p>
+    <ul>
+        <li><strong>AI Evaluator System:</strong> Developed an agentic "AI Evaluator" system (Auto-Rubrics, APO) that significantly reduced cycle times and enabled automated hypothesis validation.</li>
+        <li><strong>Hybrid Human-AI Protocol:</strong> Designed a strategic routing system for low-confidence samples to human annotators, optimizing costs while effectively detecting model drift.</li>
+    </ul>
+  </div>
+</div>
 
-At Samsung AI I was leading an applied research group working on the intersection of systems, networks and AI. I was particularly interested in distributed machine learning for inference and training. Furthermore, I conducted applied research on various SysML aspects such as  on-device machine learning, Model Convergence,  Model Optimizations, GPU/TPU efficiency and Neural Architecture Search for efficient AI.   
-
-
-#### Federated Learning
-Federated Learning is quickly gaining traction in privacy-centric distributed deployments of ML models.
-The aim of this research is to explore how we can train different model architectures in a massively scalable Federated Learning setup, where heterogeneous clients, both in terms of data (non-iid) and compute capabilities exist. Furthermore, we are looking how biases in the data affect the resulting models.
-
-
-#### Model Optimization 
-Worked on accelerating AI models through quantization, pruning and Neural architecture search. Our tooling helped to improve both inference and training performance to support real-time AI. 
-
-
-#### On-Device personalization 
-Machine learning models are typically over-provisioned to support a wide variety of input distributions. For example, an ASR system has to support people with various demographics,  accents, different microphone configurations, a large number of possible noisy environments, etc. These wide distributions result in rather large models that can only be compressed that much.
-However, once installed, these systems are typically used by a single individual that has some specific input distributions. For example, in the ASR example specific age, accent, environment etc. 
-On-device learning can help us personalize these models to remove any biases, improve accuracy and even reduce computational complexity.  We use state-of-the-art techniques such as self-supervision and  Meta-Learning techniques to support efficient on-device personalization.
-
-
-#### Efficient training 
-Worked on few-shot learning and semi-supervised learning (with proxy labels). Our main focus was to accelerate FL convergence with few labeled samples. This includes improving training for personalized Speech and Vision models. 
-
-
-#### AI offloading
-State-of-the-art models are increasing in complexity exponentially. 
-While on-device model execution is the ultimate goal, some of these models cannot be possibly be supported by embedded devices. 
-At the same time, the advent of 5G will enable low-latency communication with the edge and the cloud. 
-In this work we conduct research on offloading AI computation to the edge and the cloud. We look into the system challenges on where to place computation, how to optimize the communication between the phone and the edge/cloud and on how to scale offloading in order to support million of clients. 
-
-
-#### AI scheduling
-Mobile devices might have a wide range of available computation capabilities that can support AI tasks (e..g, CPUs, GPUs, DSPs, NPUs, FPGAs). At the same time more and more models are being deployed and many of them have to be concurrently executed. In this work we look how we can schedule this computation on a heterogeneous computation platform in order to maximize the overall throughput, minimize energy consumption  while satisfying the application QoE requirements.
-
-#### AI backend optimizations
-Embedded AI is supported by great tools such as Tensorflow Lite and Caffe2. However, mobile execution is still in its infancy. Frequently operators are not supported or they are not optimized for mobile execution. Furthermore, AI libraries are not always included or supported by the vendors. Furthermore, memory and energy restrictions might require us to make compromises in terms of the complexity of the models. In this project our goal is to research novel tools that will help us compile, compress, quantize, distill and execute models on mobile and embedded devices. 
-
-
-#### Cellular networks and AI
-Machine learning has a big impact on cellular networks. We are looking into the research areas of network automation, zero configuration, monitoring and anomaly detection, self-healing and RAN optimization with the help of deep-learning.
-
-
-# Past Research Telefonica
-At Telefonica Research, I was also using AI on big-data to support the cellular and fixed network of millions of customers. Some of the projects that I have worked on include:
-
-#### Anomaly detection 
-In Telefonica I was leading a project on using deep-learning to detect anomalies and outliers in large-scale cellular networks.  The main idea is to identify anomalies, correlate them together and identify the root cause. Furthermore, we were using SDN/NVFs to automatically intervene and auto-heal the network. 
-
-#### Forecasting cellular-network issues
-Similarly to the previous project, we use deep-learning to predict the demand and forecast bottlenecks in cellular networks. Furthermore, we were able to make predictions about individual Key-Performance Indicators (KPIs) and provide early warnings to the radio teams. Finally, we worked towards predicting in advance failures that might need human intervention. 
-
-
-#### Model customer satisfaction
-The idea is to combine all the data that are gathered (weblogs, mobility, CRM, network singling, call-center calls to complain, network measurements, etc) in order to estimate each customer’s satisfaction and understand the main reasons of dissatisfaction. We use a spark cluster to crunch terabytes of data that are daily collected into customer features. Then we used machine learning to model satisfaction, churn, up-sell, etc. 
+<div class="project-card">
+  <div class="project-image">
+    <img src="/assets/images/research/eval_platform.svg" alt="Evaluation Platform">
+  </div>
+  <div class="project-content">
+    <h3>Evaluation Platform Architecture & Governance</h3>
+    <p>Conceptualized and delivered a centralized evaluation hub, consolidating fragmented pipelines into a unified, company-wide infrastructure for GenAI assessment.</p>
+    <ul>
+        <li><strong>Standardized Infrastructure:</strong> Unified fragmented evaluation pipelines into a company-wide standard, eliminating redundancy and establishing rigorous governance.</li>
+        <li><strong>Bias Mitigation:</strong> Developed methodologies to quantify and mitigate bias in AI judges, ensuring fair and safe benchmarking against industry competitors.</li>
+    </ul>
+</div>
+</div>
 
 
-#### Encrypted Traffic classificaEon and QoE estimation
-By analysing web-logs and DPIs of encrypted traffic, we designed a system to perform real-time mobile traffic classificaIon and idenIfy poor QoE. We collected the groundtruth with a combinaIon reverse-engineering and by instrumenting android devices to crowdsource telemetry. 
+# Past Research
 
+<div class="project-card">
+  <div class="project-image">
+    <img src="/assets/images/research/on_device_ai.svg" alt="On-Device AI">
+  </div>
+  <div class="project-content">
+    <h3>On-Device AI & Wearables</h3>
+    <p>Research focused on deploying and optimizing machine learning models for resource-constrained wearable devices and mobile platforms.</p>
+    <ul>
+        <li><strong>On-device ML:</strong> Led research on deploying ML models on VR/AR headsets and Ray-Ban Stories, focusing on privacy-preserving personalization and efficient context-aware models.</li>
+        <li><strong>Samsung AI:</strong> Developed tools for quantization, pruning, and NAS to accelerate inference. Applied meta-learning and self-supervision to reduce bias and memory usage in "over-provisioned" models (e.g., ASR) for embedded devices.</li>
+    </ul>
+  </div>
+</div>
 
+<div class="project-card">
+  <div class="project-image">
+    <img src="/assets/images/research/distributed_ml.svg" alt="Distributed Learning">
+  </div>
+  <div class="project-content">
+    <h3>Distributed & Federated Learning</h3>
+    <p>Focused on architecting and deploying distributed and federated learning systems at scale in heterogeneous client environments.</p>
+    <ul>
+        <li><strong>Federated Learning:</strong> Designed systems for large-scale FL with non-IID data, focusing on model convergence, bias mitigation, and privacy for personalized speech and vision models.</li>
+        <li><strong>Heterogeneous Compute Scheduling:</strong> Developed AI workload schedulers to manage concurrent execution across diverse mobile processors (CPU/GPU/NPU), optimizing for throughput and energy efficiency.</li>
+    </ul>
+  </div>
+</div>
 
-#### Crowd-source assisted android testing with deep-learning
-We designed a platform to allow crowdsourcing human inputs for mobile phone testing. The idea is to stream fully-usable mobile applications to a browser in order to be used by crouwdsourcing platforms such as crowdflower, mechanical turk, etc. 
- My work was primarily around automated tesIng. I designed an architecture that combines RNN and CNN to learn from the crowdsourced input and replicate user input (taps, text, dragging, etc). The idea is to learn from real users to speed-up automated testing to increase code coverage in a more efficient way than automated “monkeys”.
-
-
-#### Mobile instrumentation
-I wrote an SDK to collect measurements from Android devices (location, network, accelerometer, light, etc). Furthermore, we also conduct on-device experience sampling (quesIonnaire). This was used to collect the groundtruth and to provide telemetry to the operator. 
-
-
-#### Mobile network measurements 
-As part of Telefonica I was responsible to collect, analyze and model network measurements that come from various part of the network (RAN, backbone, MME, client devices, etc)
-
-
-#### Smart notifications 
-We use the data coming from mobile phones to predict when is the best time to send out noIficaIons. I have been working on the effort to use RNNs to perform continuous  predicIons. 
-
-
-#### Location modeling 
-We designed and currently implemenIng a model in order to model the mobility of cellular network users. We used a combination of network events, mapping information and deep-learning in order to model large-scale mobility patterns. 
-
-
-#### Network capacity planning
-I studied the factors that impact the success of cellular capacity upgrades and build an algorithm to make recommendaIons on where to upgrade capacity.
-
-
-#### Insurance telematics
-Used mobility traces to esImate the driving behaviour of individuals and estimate the risk.
-
-####  Privacy & Mobile networks
-In collaboraIon with UCL and NICTA, we looked into how unique are our cellular-network clients in terms of i) mobility, ii) web/app usage. Furthermore, we looked into privacy leak from  smartphone applications. Finally, we built a model to detect malicious behavior in our cellular network (crypto-miners, etc).
+<div class="project-card">
+  <div class="project-image">
+    <img src="/assets/images/research/network_ai.svg" alt="Network Intelligence">
+  </div>
+  <div class="project-content">
+    <h3>Network Intelligence & Mobile Systems</h3>
+    <p>Applying AI to country-wide cellular networks for automation, optimization, and enhanced operational efficiency.</p>
+    <ul>
+        <li><strong>Network Automation:</strong> Applied deep learning for zero-configuration automation, real-time anomaly detection, and self-healing in cellular networks (SDN/NFV).</li>
+        <li><strong>User & App Modeling:</strong> Predicted customer satisfaction and mobility patterns from large-scale data, and automated Android app testing using imitation learning.</li>
+    </ul>
+  </div>
+</div>

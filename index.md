@@ -1,16 +1,29 @@
 ---
 layout: default
-title: Ilias Leontiadis
-
+title: About Me
 ---
 
+# Ilias Leontiadis
 
-I am a Staff AI Research Scientist at Meta (London), where I work within the GenAI organization (AI Frontier) on advancing the development of large language models. My current focus lies in building robust evaluation frameworks, AI judges, and reward models to support the training and assessment of cutting-edge generative AI systems.
+I am a **Staff Research Scientist** and **Tech Lead** at **Google (London)**, where I primarily work on the Agentic capabilities of **Gemini**, focusing on Agentic memory, harness, and orchestration in collaboration with Google DeepMind (GDM) and CoreML teams. 
 
-Previously, I held senior research roles across both industry and academia. I was a Principal Research Scientist and Research Manager at [Samsung AI](https://research.samsung.com/aicenter_cambridge), a Senior Researcher at [Telefonica Research](http://www.tid.es/research), and a Research Fellow at the [University of Cambridge](https://www.cl.cam.ac.uk/). I earned my PhD in Computer Science from [University College London (UCL)](http://www.cs.ucl.ac.uk/home/), under the supervision of [Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/).
+Prior to joining Google, I was at **Meta (London)**, contributing to the **Meta Superintelligence Lab (MSL)** within the GenAI organization. At Meta, my focus was on the development and rigorous evaluation of Large Language Models (LLMs), shaping post-training and evaluation strategies for foundational models including **Llama 3, Llama 4, and Muse**. I specialize in architecting robust **AI Judges**, **Reward Models**, and **Agentic Evaluation Systems** that provide critical signals for training state-of-the-art generative models, ensuring their alignment with human preferences across safety, reasoning, and multimodal capabilities.
 
-My research spans large language models (post-training, evaluation, reinforcement learning), AI and machine learning systems, as well as mobile and distributed systems. At Samsung AI, I led a team focused on enabling AI at the edge, with work in distributed computing, model distillation, federated learning, computation offloading, and on-device personalization.
+### Professional Journey & Education
 
-In parallel, I teach graduate-level courses on Deep Learning, Data Science, and Machine Learning at the [Barcelona School of Economics (BSE)](http://www.barcelonagse.eu/study/masters-programs/data-science), both during the academic year and at the [BSE Summer School](http://www.barcelonagse.eu/study/summer-school/data-science).
+- **2005 – 2009**: **University College London (UCL)**, PhD in Computer Science.
+  <br>*Research focus: Mobile and embedded systems.*
+- **2009 – 2012**: **University of Cambridge**, Research Fellow.
+  <br>*Research focus: Embedded AI (mobile and microcontrollers).*
+- **2013 – 2018**: **Telefonica Research**, Senior Research Scientist and Tech Lead.
+  <br>*Research focus: Deep Learning, Machine Learning for Networking, Mobile Computing, exploring efficient systems, computation offloading techniques, and network automation.*
+- **2019 – 2021**: **Samsung AI Center**, Principal Research Scientist and Group Leader.
+  <br>*Research focus: Edge AI, encompassing Distributed Machine Learning, Federated Learning, and On-device Personalization within resource-constrained environments.*
+- **2021 – 2026**: **Meta (Facebook) Superintelligence Lab (MSL)**, Staff Research Scientist and Tech Lead.
+  <br>*Research focus: Development of advanced AI Judges, post-training methodologies (reward models), and evaluation strategies for foundational models.*
+- **2026 – Present**: **Google**, Staff Research Scientist and Tech Lead.
+  <br>*Research focus: Agentic LLMs and Model Efficiency, focusing on agentic systems (memory, self-improvement, harnesses, orchestration, and evaluation).*
 
-I remain deeply engaged with the research community, serving regularly as chair and program committee member for top-tier conferences such as NeurIPS, ICLR, ICML, WWW, MobiSys, MobiCom, CoNext, ICWSM, CSCW, and IMC.
+### Teaching & Service
+
+I am an Affiliated Professor at the **Barcelona School of Economics (BSE)**, where I teach graduate-level courses in Deep Learning and Data Science. I am actively involved in the research community, regularly serving on program committees for top-tier conferences such as **NeurIPS, ICLR, ICML, MobiSys, and WWW**.

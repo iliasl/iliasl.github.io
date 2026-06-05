@@ -1,0 +1,15 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+.bundle/
+
+# AI and local dev files
+GEMINI.md
+.gemini/
+scholar-sync.skill
+scholar-sync/
+README_SCHOLAR.md
+.vscode/
+exec.txt

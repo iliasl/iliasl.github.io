@@ -1,0 +1,845 @@
+stats:
+  citations: 25628
+  h_index: 41
+  i10_index: 67
+  last_updated: '2026-06-04 23:45:17'
+publications:
+- title: Method and apparatus for image segmentation
+  authors: Alexandros KOURIS and Stylianos I VENIERIS and Stefanos LASKARIDIS and
+    Ilias LEONTIADIS
+  venue: US Patent 12,573,052, 2026
+  year: 2026
+  citations: 5
+  url: https://patents.google.com/patent/US12573052B2/en
+- title: 'Balanced Accuracy: The Right Metric for Evaluating LLM Judges-Explained
+    through Youden’s J statistic'
+  authors: Stephane Collot and Colin Fraser and Justin Zhao and William F Shen and
+    Timon Willi and Ilias Leontiadis
+  venue: 'Proceedings of the 19th Conference of the European Chapter of the Association
+    for Computational Linguistics (Volume 5: Industry Track)'
+  year: 2026
+  citations: 2
+  url: https://aclanthology.org/2026.eacl-industry.69/
+- title: Rethinking Rubric Generation for Improving LLM Judge and Reward Modeling
+    for Open-ended Tasks
+  authors: William F Shen and Xinchi Qiu and Chenxi Whitehouse and Lisa Alazraki and
+    Shashwat Goel and Francesco Barbieri and Timon Willi and Akhil Mathur and Ilias
+    Leontiadis
+  venue: arXiv preprint arXiv:2602.05125
+  year: 2026
+  citations: 17
+  url: https://arxiv.org/abs/2602.05125
+- title: 'The Llama 4 Herd: Architecture, Training, Evaluation, and Deployment Notes'
+  authors: Aaron Adcock and Aayushi Srivastava and Abhimanyu Dubey and Abhinav Jauhri
+    and Abhinav Pande and Abhinav Pandey and Abhinav Sharma and Abhishek Kadian and
+    Abhishek Kumawat and Adam Kelsey and Adam Stelle and Adeel Cheema and Adela Kabiljo
+    and Adina Katz and Adithya Gangidi and Aditya Tayade and Adolfo Victoria and Adrian
+    Samatan Alastuey and Adrien Conrath and Afroz Mohiuddin and Ahmed Sharif and Ahnaf
+    Siddiqui and Ahuva Goldstand and Aijung Li and Aidan Boyd and Aidin Kazemi Daliri
+    and Aisha Iqbal and Ajay Menon and Ajit Mathews and Akhil Mathur and Akshat Agarwal
+    and Alan Schelten and Alana Shine and Alejandro Castillejo Muñoz and Aleksei Guliaev
+    and Alex Radovic and Alex Song and Alex Vaughan and Alexander Simeonov and Alexandre
+    Rezende and Alexei Baevski and Alexey Roubaud and Allen Ma and Alvin Lee and Alyssa
+    Pereira and Aman Ahmed and Aman Shankar and Amanda Kallet and Amar Budhiraja and
+    Ameya Khandekar and Amine Benhalloum and Amir Gershman and Amit Nagpal and Amit
+    Zohar and Amr Sharaf and Anant Desai and Anastasia Razdaibiedina and Anca Agape
+    and Andranik Kurghinyan and Andre Perunicic and Andrea Madotto and Andrei Darabanov
+    and Andrés Alvarado and Andrew Brown and Andrew Cohen and Andrew Fang and Andrew
+    Freeman and Andrew Gallagher and Andrew Gu and Andrew Prasetyo Jo and Andrew Ryan
+    and Andrew Steffen and Andrew Wei and Andrey Rusakov and Andrii Golovei and Andy
+    Shang and Angela Fan and Angela Flewellen and Animesh Pathak and Anirudh Goyal
+    and Ankit Ramchandani and Ankur Pai and Ankur Singh and Ankush Garg and Anlu Xing
+    and Anna Cai and Anna Grosul and Anna Prochowska and Anna Sun and Annie Dong and
+    Annie Franco and Anqi Hu and Anshul Chawla and Anthony Hartshorn and Antonia Sheng
+    and Antony Thomas and Anuj Goyal and Anusha De and Anvit Bodiwala and Aobo Yang
+    and Aparajita Saraf and Apurva Samudra and Aran Mun and Arash Rahnama and Archi
+    Mitra and Archie Sravankumar and Archit Gupta and Aria Haghighi and Ariel Stolerman
+    and Arkabandhu Chowdhury and Arnab Choudhury and Artem Korenev and Arthur Guo
+    and Arthur Hinsvark and Arun Mallya and Arvind Neelakantan and Arya Talebzadeh
+    and Ashish Shah and Ashmitha Jeevaraj Shetty and Ashwin Bharambe and Asif Islam
+    and Aston Zhang and Austen Gregerson and Avi Lewis and Aya Ibrahim and Ayaz Minhas
+    and Ayelet Dahan and Ayelet Regev Dabah and Bangsheng Tang and Bar Ulman and Bardiya
+    Sadeghi and Bartosz Jedrzejewski and Barys Skarabahaty and Beibei Zhu and Beibin
+    Li and Ben Bharier and Benjamin Leonhardi and Benjamin Muller and Bennett Plessala
+    and Bernie Huang and Beth Loyd and Bhargavi Paranjape and Bhavik Sheth and Bill
+    Bonner and Bill Holland and Bill Wang and Bingzhe Liu and Binh Tang and Bo Liu
+    and Bo Wu
+  venue: arXiv preprint arXiv:2601.11659
+  year: 2026
+  citations: 11
+  url: https://arxiv.org/abs/2601.11659
+- title: Training AI Co-Scientists Using Rubric Rewards
+  authors: Shashwat Goel and Rishi Hazra and Dulhan Jayalath and Timon Willi and Parag
+    Jain and William F Shen and Ilias Leontiadis and Francesco Barbieri and Yoram
+    Bachrach and Jonas Geiping and Chenxi Whitehouse
+  venue: arXiv preprint arXiv:2512.23707
+  year: 2025
+  citations: 15
+  url: https://arxiv.org/abs/2512.23707
+- title: Method, system and apparatus for federated learning
+  authors: Stefanos LASKARIDIS and Samuel HORVATH and Mario ALMEIDA and Ilias LEONTIADIS
+    and Stylianos I VENIERIS
+  venue: US Patent 12,450,489, 2025
+  year: 2025
+  citations: 0
+  url: https://patents.google.com/patent/US12450489B2/en
+- title: 'Balanced Accuracy: The Right Metric for Evaluating LLM Judges--Explained
+    through Youden''s J statistic'
+  authors: Stephane Collot, Colin Fraser, Justin Zhao, William F. Shen, Timon Willi,
+    Ilias Leontiadis
+  venue: Scholarly Publication
+  year: '2025'
+  citations: 0
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:9vf0nzSNQJEC
+- title: The llama 3 herd of models
+  authors: Abhimanyu Dubey and Abhinav Jauhri and Abhinav Pandey and Abhishek Kadian
+    and Ahmad Al-Dahle and Aiesha Letman and Akhil Mathur and Alan Schelten and Amy
+    Yang and Angela Fan and Anirudh Goyal and Anthony Hartshorn and Aobo Yang and
+    Archi Mitra and Archie Sravankumar and Artem Korenev and Arthur Hinsvark and Arun
+    Rao and Aston Zhang and Aurélien Rodriguez and Austen Gregerson and Ava Spataru
+    and Baptiste Rozière and Bethany Biron and Binh Tang and Bobbie Chern and Charlotte
+    Caucheteux and Chaya Nayak and Chloe Bi and Chris Marra and Chris McConnell and
+    Christian Keller and Christophe Touret and Chunyang Wu and Corinne Wong and Cristian
+    Canton Ferrer and Cyrus Nikolaidis and Damien Allonsius and Daniel Song and Danielle
+    Pintz and Danny Livshits and David Esiobu and Dhruv Choudhary and Dhruv Mahajan
+    and Diego Garcia-Olano and Diego Perino and Dieuwke Hupkes and Egor Lakomkin and
+    Ehab AlBadawy and Elina Lobanova and Emily Dinan and Eric Michael Smith and Filip
+    Radenovic and Frank Zhang and Gabriel Synnaeve and Gabrielle Lee and Georgia Lewis
+    Anderson and Graeme Nail and Grégoire Mialon and Guan Pang and Guillem Cucurell
+    and Hailey Nguyen and Hannah Korevaar and Hu Xu and Hugo Touvron and Iliyan Zarov
+    and Imanol Arrieta Ibarra and Isabel Kloumann and Ishan Misra and Ivan Evtimov
+    and Jade Copet and Jaewon Lee and Jan Geffert and Jana Vranes and Jason Park and
+    Jay Mahadeokar and Jeet Shah and Jelmer van der Linde and Jennifer Billock and
+    Jenny Hong and Jenya Lee and Jeremy Fu and Jianfeng Chi and Jianyu Huang and Jiawen
+    Liu and Jie Wang and Jiecao Yu and Joanna Bitton and Joe Spisak and Jongsoo Park
+    and Joseph Rocca and Joshua Johnstun and Joshua Saxe and Junteng Jia and Kalyan
+    Vasuden Alwala and Kartikeya Upasani and Kate Plawiak and Ke Li and Kenneth Heafield
+    and Kevin Stone and Khalid El-Arini and Krithika Iyer and Kshitiz Malik and Kuenley
+    Chiu and Kunal Bhalla and Lauren Rantala-Yeary and Laurens van der Maaten and
+    Lawrence Chen and Liang Tan and Liz Jenkins and Louis Martin and Lovish Madaan
+    and Lubo Malo and Lukas Blecher and Lukas Landzaat and Luke de Oliveira and Madeline
+    Muzzi and Mahesh Pasupuleti and Mannat Singh and Manohar Paluri and Marcin Kardas
+    and Mathew Oldham and Mathieu Rita and Maya Pavlova and Melanie Kambadur and Mike
+    Lewis and Min Si and Mitesh Kumar Singh and Mona Hassan and Naman Goyal and Narjes
+    Torabi and Nikolay Bashlykov and Nikolay Bogoychev and Niladri Chatterji and Olivier
+    Duchenne and Onur Çelebi and Patrick Alrassy and Pengchuan Zhang and Pengwei Li
+    and Petar Vasic and Peter Weng and Prajjwal Bhargava and Pratik Dubal and Praveen
+    Krishnan and Punit Singh Koura and Puxin Xu and Qing He and Qingxiao Dong and
+    Ragavan Srinivasan and Raj Ganapathy
+  venue: arXiv e-prints
+  year: 2024
+  citations: 17579
+  url: https://scholar.google.com/scholar?cluster=4075166335978822586&hl=en&oi=scholarr
+- title: Evaluating privacy leakage in split learning
+  authors: Xinchi Qiu and Ilias Leontiadis and Luca Melis and Alex Sablayrolles and
+    Pierre Stock
+  venue: arXiv preprint arXiv:2305.12997
+  year: 2023
+  citations: 9
+  url: https://arxiv.org/abs/2305.12997
+- title: Gpu-based private information retrieval for on-device machine learning inference
+  authors: Maximilian Lam and Jeff Johnson and Wenjie Xiong and Kiwan Maeng and Udit
+    Gupta and Yang Li and Liangzhen Lai and Ilias Leontiadis and Minsoo Rhu and Hsien-Hsin
+    S Lee and Vijay Janapa Reddi and Gu-Yeon Wei and David Brooks and G Edward Suh
+  venue: arXiv preprint arXiv:2301.10904
+  year: 2023
+  citations: 28
+  url: https://arxiv.org/abs/2301.10904
+- title: 'Federated ensemble learning: Increasing the capacity of label private recommendation
+    systems.'
+  authors: Meisam Hejazinia and Dzmitry Huba and Ilias Leontiadis and Kiwan Maeng
+    and Mani Malek and Luca Melis and Ilya Mironov and Milad Nasr and Kaikai Wang
+    and Carole-Jean Wu
+  venue: IEEE Data Eng. Bull.
+  year: 2023
+  citations: 2
+  url: http://sites.computer.org/debull/A23mar/p145.pdf
+- title: 'EXACT: Extensive attack for split learning'
+  authors: Xinchi Qiu and Ilias Leontiadis and Luca Melis and Alex Sablayrolles and
+    Pierre Stock
+  venue: arXiv preprint arXiv:2305.12997
+  year: 2023
+  citations: 6
+  url: https://scholar.google.com/scholar?cluster=11311110128173015587&hl=en&oi=scholarr
+- title: '{FirmSolo}: Enabling dynamic analysis of binary Linux-based {IoT} kernel
+    modules'
+  authors: Ioannis Angelakopoulos and Gianluca Stringhini and Manuel Egele
+  venue: 32nd USENIX Security Symposium (USENIX Security 23)
+  year: 2023
+  citations: 28
+  url: https://www.usenix.org/conference/usenixsecurity23/presentation/angelakopoulos
+- title: 'Dyno: Dynamic onloading of deep neural networks from cloud to device'
+  authors: Mario Almeida and Stefanos Laskaridis and Stylianos I Venieris and Ilias
+    Leontiadis and Nicholas D Lane
+  venue: ACM Transactions on Embedded Computing Systems
+  year: 2022
+  citations: 53
+  url: https://dl.acm.org/doi/abs/10.1145/3510831
+- title: 'Fel: High capacity learning for recommendation and ranking via federated
+    ensemble learning'
+  authors: Meisam Hejazinia and Dzmitry Huba and Ilias Leontiadis and Kiwan Maeng
+    and Mani Malek and Luca Melis and Ilya Mironov and Milad Nasr and Kaikai Wang
+    and Carole-Jean Wu
+  venue: arXiv preprint arXiv:2206.03852
+  year: 2022
+  citations: 13
+  url: https://arxiv.org/abs/2206.03852
+- title: Method and system for neural network execution distribution
+  authors: Mario ALMEIDA and Stefanos LASKARIDIS and Stylianos VENIERIS and Ilias
+    LEONTIADIS
+  venue: US Patent App. 17/420,259, 2022
+  year: 2022
+  citations: 5
+  url: https://patents.google.com/patent/US20220083386A1/en
+- title: 'Fjord: Fair and accurate federated learning under heterogeneous targets
+    with ordered dropout'
+  authors: Samuel Horvath and Stefanos Laskaridis and Mario Almeida and Ilias Leontiadis
+    and Stylianos Venieris and Nicholas Lane
+  venue: Advances in Neural Information Processing Systems
+  year: 2021
+  citations: 451
+  url: https://proceedings.neurips.cc/paper/2021/hash/6aed000af86a084f9cb0264161e29dd3-Abstract.html
+- title: Smart at what cost? characterising mobile deep neural networks in the wild
+  authors: Mario Almeida and Stefanos Laskaridis and Abhinav Mehrotra and Lukasz Dudziak
+    and Ilias Leontiadis and Nicholas D Lane
+  venue: Proceedings of the 21st ACM Internet Measurement Conference, 658-672, 2021
+  year: 2021
+  citations: 62
+  url: https://dl.acm.org/doi/abs/10.1145/3487552.3487863
+- title: How to reach real-time AI on consumer devices? Solutions for programmable
+    and custom architectures
+  authors: Stylianos I Venieris and Ioannis Panopoulos and Ilias Leontiadis and Iakovos
+    S Venieris
+  venue: 2021 IEEE 32nd International Conference on Application-specific Systems,
+    Architectures and Processors (ASAP)
+  year: 2021
+  citations: 18
+  url: https://ieeexplore.ieee.org/abstract/document/9516652/
+- title: 'It''s always personal: Using early exits for efficient on-device CNN personalisation'
+  authors: Ilias Leontiadis and Stefanos Laskaridis and Stylianos I Venieris and Nicholas
+    D Lane
+  venue: Proceedings of the 22nd International Workshop on Mobile Computing Systems
+    …, 2021
+  year: 2021
+  citations: 43
+  url: https://dl.acm.org/doi/abs/10.1145/3446382.3448359
+- title: 'SPINN: Synergistic progressive inference of neural networks over device
+    and cloud'
+  authors: Stefanos Laskaridis and Stylianos I Venieris and Mario Almeida and Ilias
+    Leontiadis and Nicholas D Lane
+  venue: Proceedings of the 26th annual international conference on mobile computing
+    …, 2020
+  year: 2020
+  citations: 459
+  url: https://dl.acm.org/doi/abs/10.1145/3372224.3419194
+- title: Method, a system and computer program products for securely enabling in-network
+    functionality over encrypted data sessions
+  authors: Various Authors
+  venue: US Patent 10,742,611, 2020
+  year: '2020'
+  citations: 6
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:cFHS6HbyZ2cC
+- title: 'Darknetz: towards model privacy at the edge using trusted execution environments'
+  authors: Fan Mo and Ali Shahin Shamsabadi and Kleomenis Katevas and Soteris Demetriou
+    and Ilias Leontiadis and Andrea Cavallaro and Hamed Haddadi
+  venue: Proceedings of the 18th International Conference on Mobile Systems …, 2020
+  year: 2020
+  citations: 309
+  url: https://dl.acm.org/doi/abs/10.1145/3386901.3388946
+- title: 'Disturbed YouTube for kids: Characterizing and detecting inappropriate videos
+    targeting young children'
+  authors: Kostantinos Papadamou and Antonis Papasavva and Savvas Zannettou and Jeremy
+    Blackburn and Nicolas Kourtellis and Ilias Leontiadis and Gianluca Stringhini
+    and Michael Sirivianos
+  venue: Proceedings of the international AAAI conference on web and social media
+  year: 2020
+  citations: 213
+  url: https://aaai.org/ojs/index.php/ICWSM/article/view/7320
+- title: 'Learning to listen... on-device: Present and future perspectives of on-device
+    asr'
+  authors: Various Authors
+  venue: 'GetMobile: Mobile Computing and Communications 23 (4), 5-9, 2020'
+  year: '2020'
+  citations: 10
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:K3LRdlH-MEoC
+- title: A self-attentive emotion recognition network
+  authors: Harris Partaourides and Kostantinos Papadamou and Nicolas Kourtellis and
+    Ilias Leontiades and Sotirios Chatzis
+  venue: ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2020
+  citations: 14
+  url: https://ieeexplore.ieee.org/abstract/document/9054762/
+- title: A retrospective analysis of user exposure to (illicit) cryptocurrency mining
+    on the web
+  authors: Various Authors
+  venue: arXiv preprint arXiv:2004.13239, 2020
+  year: '2020'
+  citations: 7
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:738O_yMBCRsC
+- title: 'Experience: advanced network operations in (Un)-connected remote communities'
+  authors: Various Authors
+  venue: Proceedings of the 26th Annual International Conference on Mobile Computing
+    …, 2020
+  year: '2020'
+  citations: 4
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:WbkHhVStYXYC
+- title: Restricted Dataset for" Large Scale Crowdsourcing and Characterization of
+    Twitter Abusive Behavior"
+  authors: Various Authors
+  venue: Scholarly Publication
+  year: '2020'
+  citations: 1
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:eq2jaN3J8jMC
+- title: Public Dataset for" Large Scale Crowdsourcing and Characterization of Twitter
+    Abusive Behavior"
+  authors: Various Authors
+  venue: Scholarly Publication
+  year: '2020'
+  citations: 0
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:AXPGKjj_ei8C
+- title: 'Finding dory in the crowd: Detecting social interactions using multi-modal
+    mobile sensing'
+  authors: Kleomenis Katevas and Katrin Hänsel and Richard Clegg and Ilias Leontiadis
+    and Hamed Haddadi and Laurissa Tokarchuk
+  venue: Proceedings of the 1st Workshop on Machine Learning on Edge in Sensor …,
+    2019
+  year: 2019
+  citations: 30
+  url: https://dl.acm.org/doi/abs/10.1145/3362743.3362959
+- title: '" You Know What to Do" Proactive Detection of YouTube Videos Targeted by
+    Coordinated Hate Attacks'
+  authors: Enrico Mariconti and Guillermo Suarez-Tangil and Jeremy Blackburn and Emiliano
+    De Cristofaro and Nicolas Kourtellis and Ilias Leontiadis and Jordi Luque Serrano
+    and Gianluca Stringhini
+  venue: Proceedings of the ACM on Human-Computer Interaction
+  year: 2019
+  citations: 117
+  url: https://dl.acm.org/doi/abs/10.1145/3359309
+- title: Detecting cyberbullying and cyberaggression in social media
+  authors: Despoina Chatzakou and Ilias Leontiadis and Jeremy Blackburn and Emiliano
+    De Cristofaro and Gianluca Stringhini and Athena Vakali and Nicolas Kourtellis
+  venue: ACM Transactions on the Web (TWEB)
+  year: 2019
+  citations: 186
+  url: https://dl.acm.org/doi/abs/10.1145/3343484
+- title: Learning from Industrial Ixperimental Research
+  authors: Various Authors
+  venue: Proceedings of the 13th International Workshop on Wireless Network Testbeds
+    …, 2019
+  year: '2019'
+  citations: 0
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:SP6oXDckpogC
+- title: A unified deep learning architecture for abuse detection
+  authors: Antigoni Maria Founta and Despoina Chatzakou and Nicolas Kourtellis and
+    Jeremy Blackburn and Athena Vakali and Ilias Leontiadis
+  venue: Proceedings of the 10th ACM conference on web science, 105-114, 2019
+  year: 2019
+  citations: 343
+  url: https://dl.acm.org/doi/abs/10.1145/3292522.3326028
+- title: 'EmBench: Quantifying performance variations of deep neural networks across
+    modern commodity devices'
+  authors: Mario Almeida and Stefanos Laskaridis and Ilias Leontiadis and Stylianos
+    I Venieris and Nicholas D Lane
+  venue: The 3rd international workshop on deep learning for mobile systems and …,
+    2019
+  year: 2019
+  citations: 92
+  url: https://dl.acm.org/doi/abs/10.1145/3325413.3329793
+- title: A reality check on inference at mobile networks edge
+  authors: Alejandro Cartas and Martin Kocour and Aravindh Raman and Ilias Leontiadis
+    and Jordi Luque and Nishanth Sastry and Jose Nuñez-Martinez and Diego Perino and
+    Carlos Segura
+  venue: Proceedings of the 2nd International Workshop on Edge Systems, Analytics
+    and …, 2019
+  year: 2019
+  citations: 28
+  url: https://dl.acm.org/doi/abs/10.1145/3301418.3313946
+- title: 'Disturbed youtube for kids: Characterizing and detecting disturbing content
+    on youtube'
+  authors: Kostantinos Papadamou and Antonis Papasavva and Savvas Zannettou and Jeremy
+    Blackburn and Nicolas Kourtellis and Ilias Leontiadis and Gianluca Stringhini
+    and Michael Sirivianos
+  venue: arXiv preprint arXiv:1901.07046
+  year: 2019
+  citations: 30
+  url: https://encase.socialcomputing.eu/wp-content/uploads/2019/01/DisturbedYouTubeforKids.pdf
+- title: 'There goes Wally: Anonymously sharing your location gives you away'
+  authors: Various Authors
+  venue: 2018 IEEE International Conference on Big Data (Big Data), 1218-1227, 2018
+  year: '2018'
+  citations: 10
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:fPk4N6BV_jEC
+- title: 'LOBO: Evaluation of generalization deficiencies in Twitter bot classifiers'
+  authors: Juan Echeverrï£¡ a and Emiliano De Cristofaro and Nicolas Kourtellis and
+    Ilias Leontiadis and Gianluca Stringhini and Shi Zhou
+  venue: Proceedings of the 34th annual computer security applications conference
+    …, 2018
+  year: 2018
+  citations: 96
+  url: https://dl.acm.org/doi/abs/10.1145/3274694.3274738
+- title: A first look at SIM-enabled wearables in the wild
+  authors: Harini Kolamunna and Ilias Leontiadis and Diego Perino and Suranga Seneviratne
+    and Kanchana Thilakarathna and Aruna Seneviratne
+  venue: Proceedings of the Internet Measurement Conference 2018, 77-83, 2018
+  year: 2018
+  citations: 17
+  url: https://dl.acm.org/doi/abs/10.1145/3278532.3278540
+- &id001
+  title: Large scale crowdsourcing and characterization of twitter abusive behavior
+  authors: Antigoni Founta and Constantinos Djouvas and Despoina Chatzakou and Ilias
+    Leontiadis and Jeremy Blackburn and Gianluca Stringhini and Athena Vakali and
+    Michael Sirivianos and Nicolas Kourtellis
+  venue: Proceedings of the international AAAI conference on web and social media
+  year: 2018
+  citations: 0
+  url: https://ojs.aaai.org/index.php/ICWSM/article/view/14991
+- title: 'Chimp: Crowdsourcing human inputs for mobile phones'
+  authors: Mario Almeida and Muhammad Bilal and Alessandro Finamore and Ilias Leontiadis
+    and Yan Grunenberger and Matteo Varvello and Jeremy Blackburn
+  venue: Proceedings of the 2018 World Wide Web Conference, 45-54, 2018
+  year: 2018
+  citations: 37
+  url: https://dl.acm.org/doi/abs/10.1145/3178876.3186035
+- *id001
+- title: Continual prediction of notification attendance with classical and deep network
+    approaches
+  authors: Various Authors
+  venue: arXiv preprint arXiv:1712.07120, 2017
+  year: '2017'
+  citations: 3
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:HoB7MX3m0LUC
+- &id002
+  title: 'The web centipede: understanding how web communities influence each other
+    through the lens of mainstream and alternative news sources'
+  authors: Savvas Zannettou and Tristan Caulfield and Emiliano De Cristofaro and Nicolas
+    Kourtelris and Ilias Leontiadis and Michael Sirivianos and Gianluca Stringhini
+    and Jeremy Blackburn
+  venue: Proceedings of the 2017 internet measurement conference, 405-417, 2017
+  year: 2017
+  citations: 0
+  url: https://dl.acm.org/doi/abs/10.1145/3131365.3131390
+- title: Detecting network performance anomalies with contextual anomaly detection
+  authors: Giorgos Dimopoulos and Pere Barlet-Ros and Constantine Dovrolis and Ilias
+    Leontiadis
+  venue: 2017 IEEE International Workshop on Measurement and Networking (M&N)
+  year: 2017
+  citations: 13
+  url: https://ieeexplore.ieee.org/abstract/document/8078404/
+- title: Class-based prediction errors to detect hate speech with out-of-vocabulary
+    words
+  authors: Joan Serra and Ilias Leontiadis and Dimitris Spathis and Gianluca Stringhini
+    and Jeremy Blackburn and Athena Vakali
+  venue: Proceedings of the first workshop on abusive language online
+  year: 2017
+  citations: 56
+  url: https://aclanthology.org/W17-3005/
+- title: Practical processing of mobile sensor data for continual deep learning predictions
+  authors: Kleomenis Katevas and Ilias Leontiadis and Martin Pielot and Joan Serrà
+  venue: Proceedings of the 1st International Workshop on Deep Learning for mobile
+    …, 2017
+  year: 2017
+  citations: 16
+  url: https://dl.acm.org/doi/abs/10.1145/3089801.3089802
+- title: 'Kek, cucks, and god emperor trump: A measurement study of 4chan’s politically
+    incorrect forum and its effects on the web'
+  authors: Gabriel Hine and Jeremiah Onaolapo and Emiliano De Cristofaro and Nicolas
+    Kourtellis and Ilias Leontiadis and Riginos Samaras and Gianluca Stringhini and
+    Jeremy Blackburn
+  venue: Proceedings of the International AAAI Conference on Web and Social Media
+  year: 2017
+  citations: 403
+  url: https://ojs.aaai.org/index.php/ICWSM/article/view/14893
+- title: 'The good, the bad, and the KPIs: how to combine performance metrics to better
+    capture underperforming sectors in mobile networks'
+  authors: Various Authors
+  venue: 2017 IEEE 33rd International Conference on Data Engineering (ICDE), 297-308,
+    2017
+  year: '2017'
+  citations: 10
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:J_g5lzvAfSwC
+- title: Hot or not? Forecasting cellular network hot spots using sector performance
+    indicators
+  authors: Joan Serra and Ilias Leontiadis and Alexandros Karatzoglou and Konstantina
+    Papagiannaki
+  venue: 2017 IEEE 33rd International Conference on Data Engineering (ICDE)
+  year: 2017
+  citations: 14
+  url: https://ieeexplore.ieee.org/document/7929982/
+- *id002
+- title: Measuring video QoE from encrypted traffic
+  authors: Giorgos Dimopoulos and Ilias Leontiadis and Pere Barlet-Ros and Konstantina
+    Papagiannaki
+  venue: Proceedings of the 2016 Internet Measurement Conference, 513-526, 2016
+  year: 2016
+  citations: 235
+  url: https://dl.acm.org/doi/abs/10.1145/2987443.2987459
+- title: 'Kek, Cucks, and God Emperor Trump: A Measurement Study of 4chan''s Politically
+    Incorrect Forum and Its Effects on the Web'
+  authors: Various Authors
+  venue: 'arXiv e-prints, arXiv: 1610.03452, 2016'
+  year: '2016'
+  citations: 0
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:vRqMK49ujn8C
+- title: Method and system for identifying the cause of network problems in mobile
+    networks and computer program thereof
+  authors: Various Authors
+  venue: US Patent App. 15/025,421, 2016
+  year: '2016'
+  citations: 11
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:maZDTaKrznsC
+- title: Department of computer science and technology
+  authors: Various Authors
+  venue: IEEE Transactions on Big Data, 2016
+  year: '2016'
+  citations: 5
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:D_sINldO8mEC
+- title: Identifying the root cause of video streaming issues on mobile devices
+  authors: Giorgos Dimopoulos and Ilias Leontiadis and Pere Barlet-Ros and Konstantina
+    Papagiannaki and Peter Steenkiste
+  venue: Proceedings of the 11th ACM Conference on Emerging Networking Experiments
+    …, 2015
+  year: 2015
+  citations: 55
+  url: https://dl.acm.org/doi/abs/10.1145/2716281.2836109
+- title: Multi-context TLS (mcTLS) enabling secure in-network functionality in TLS
+  authors: David Naylor and Kyle Schomp and Matteo Varvello and Ilias Leontiadis and
+    Jeremy Blackburn and Diego R López and Konstantina Papagiannaki and Pablo Rodriguez
+    Rodriguez and Peter Steenkiste
+  venue: ACM SIGCOMM Computer Communication Review
+  year: 2015
+  citations: 224
+  url: https://dl.acm.org/doi/abs/10.1145/2829988.2787482
+- title: Cross-Check of Analysis Modules and Reasoner Interactions
+  authors: Various Authors
+  venue: Scholarly Publication
+  year: '2015'
+  citations: 0
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:RHpTSmoSYBkC
+- title: Multi-Context TLS (mcTLS)
+  authors: Various Authors
+  venue: Proceedings of the 2015 ACM Conference on Special Interest Group on Data
+    …, 2015
+  year: '2015'
+  citations: 0
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:5awf1xo2G04C
+- title: 'From cells to streets: Estimating mobile paths with cellular-side data'
+  authors: Ilias Leontiadis and Antonio Lima and Haewoon Kwak and Rade Stanojevic
+    and David Wetherall and Konstantina Papagiannaki
+  venue: Proceedings of the 10th ACM International on Conference on emerging …, 2014
+  year: 2014
+  citations: 75
+  url: https://dl.acm.org/doi/abs/10.1145/2674005.2674982
+- title: The cost of the" s" in https
+  authors: David Naylor and Alessandro Finamore and Ilias Leontiadis and Yan Grunenberger
+    and Marco Mellia and Maurizio Munafò and Konstantina Papagiannaki and Peter Steenkiste
+  venue: Proceedings of the 10th ACM International on Conference on emerging …, 2014
+  year: 2014
+  citations: 357
+  url: https://dl.acm.org/doi/abs/10.1145/2674005.2674991
+- title: 'The architecture of innovation: Tracking face-to-face interactions with
+    ubicomp technologies'
+  authors: Chloë Brown and Christos Efstratiou and Ilias Leontiadis and Daniele Quercia
+    and Cecilia Mascolo and James Scott and Peter Key
+  venue: Proceedings of the 2014 ACM International Joint Conference on Pervasive and
+    …, 2014
+  year: 2014
+  citations: 73
+  url: https://dl.acm.org/doi/abs/10.1145/2632048.2632056
+- title: 'mPlane: an intelligent measurement plane for the internet'
+  authors: Brian Trammell and Pedro Casas and Dario Rossi and Arian Bär and Zied Ben
+    Houidi and Ilias Leontiadis and Tivadar Szemethy and Marco Mellia
+  venue: IEEE Communications Magazine
+  year: 2014
+  citations: 34
+  url: https://ieeexplore.ieee.org/abstract/document/6815906/
+- title: 'MONITORING AND TROUBLESHOOTING MULTI-DOMAIN NETWORKS USING MEASUREMENT FEDERATIONS:
+    PART 2'
+  authors: Various Authors
+  venue: IEEE Communications Magazine, 2014
+  year: '2014'
+  citations: 0
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:mB3voiENLucC
+- title: 'Tracking serendipitous interactions: How individual cultures shape the office'
+  authors: Chloë Brown and Christos Efstratiou and Ilias Leontiadis and Daniele Quercia
+    and Cecilia Mascolo
+  venue: Proceedings of the 17th ACM conference on Computer supported cooperative
+    …, 2014
+  year: 2014
+  citations: 94
+  url: https://dl.acm.org/doi/abs/10.1145/2531602.2531641
+- title: Smartphone sensing offloading for efficiently supporting social sensing applications
+  authors: Kiran K Rachuri and Christos Efstratiou and Ilias Leontiadis and Cecilia
+    Mascolo and Peter J Rentfrow
+  venue: Pervasive and Mobile Computing
+  year: 2014
+  citations: 29
+  url: https://www.sciencedirect.com/science/article/pii/S1574119213001296
+- title: Design of the reasoner
+  authors: Various Authors
+  venue: D4 2 (06), 2014, 2014
+  year: '2014'
+  citations: 2
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:HDshCWvjkbEC
+- title: Design of Analysis Modules
+  authors: Various Authors
+  venue: Scholarly Publication
+  year: '2013'
+  citations: 0
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:bEWYMUwI8FkC
+- title: Applications of temporal graph metrics to real-world networks
+  authors: John Tang and Ilias Leontiadis and Salvatore Scellato and Vincenzo Nicosia
+    and Cecilia Mascolo and Mirco Musolesi and Vito Latora
+  venue: Temporal Networks, 135-159, 2013
+  year: 2013
+  citations: 70
+  url: https://link.springer.com/chapter/10.1007/978-3-642-36461-7_7
+- title: 'METIS: Exploring mobile phone sensing offloading for efficiently supporting
+    social sensing applications'
+  authors: Kiran K Rachuri and Christos Efstratiou and Ilias Leontiadis and Cecilia
+    Mascolo and Peter J Rentfrow
+  venue: 2013 IEEE International Conference on Pervasive Computing and Communications
+    (PerCom)
+  year: 2013
+  citations: 67
+  url: https://ieeexplore.ieee.org/abstract/document/6526718/
+- title: Application Scenarios
+  authors: Various Authors
+  venue: 'Mobile Ad Hoc Networking: Cutting Edge Directions, 77-105, 2013'
+  year: '2013'
+  citations: 2
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:aqlVkmm33-oC
+- title: Sense and sensibility in a pervasive world
+  authors: Christos Efstratiou and Ilias Leontiadis and Marco Picone and Kiran K Rachuri
+    and Cecilia Mascolo and Jon Crowcroft
+  venue: International Conference on Pervasive Computing, 406-424, 2012
+  year: 2012
+  citations: 47
+  url: https://link.springer.com/chapter/10.1007/978-3-642-31205-2_25
+- title: Error and attack vulnerability of temporal networks
+  authors: Stojan Trajanovski and S Scellato and I Leontiadis
+  venue: Physical Review E—Statistical, Nonlinear, and Soft Matter Physics
+  year: 2012
+  citations: 41
+  url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.85.066105
+- title: Don't kill my ads! Balancing privacy in an ad-supported mobile application
+    market
+  authors: Ilias Leontiadis and Christos Efstratiou and Marco Picone and Cecilia Mascolo
+  venue: Proceedings of the Twelfth Workshop on Mobile Computing Systems …, 2012
+  year: 2012
+  citations: 245
+  url: https://dl.acm.org/doi/abs/10.1145/2162081.2162084
+- title: 'SenShare: transforming sensor networks into multi-application sensing infrastructures'
+  authors: Ilias Leontiadis and Christos Efstratiou and Cecilia Mascolo and Jon Crowcroft
+  venue: European Conference on Wireless Sensor Networks, 65-81, 2012
+  year: 2012
+  citations: 159
+  url: https://link.springer.com/chapter/10.1007/978-3-642-28169-3_5
+- title: Evaluating temporal robustness of mobile networks
+  authors: Salvatore Scellato and Ilias Leontiadis and Cecilia Mascolo and Prithwish
+    Basu and Murtaza Zafer
+  venue: IEEE Transactions on Mobile Computing
+  year: 2011
+  citations: 79
+  url: https://ieeexplore.ieee.org/abstract/document/6086544/
+- title: On the effectiveness of an opportunistic traffic management system for vehicular
+    networks
+  authors: Ilias Leontiadis and Gustavo Marfia and David Mack and Giovanni Pau and
+    Cecilia Mascolo and Mario Gerla
+  venue: IEEE Transactions on Intelligent Transportation Systems
+  year: 2011
+  citations: 252
+  url: https://ieeexplore.ieee.org/abstract/document/5970119/
+- title: 'Spotme if you can: Randomized responses for location obfuscation on mobile
+    phones'
+  authors: Daniele Quercia and Ilias Leontiadis and Liam McNamara and Cecilia Mascolo
+    and Jon Crowcroft
+  venue: 2011 31st International Conference on Distributed Computing Systems
+  year: 2011
+  citations: 100
+  url: https://ieeexplore.ieee.org/abstract/document/5961717/
+- title: Understanding robustness of mobile networks through temporal network measures
+  authors: Salvatore Scellato and Ilias Leontiadis and Cecilia Mascolo and Prithwish
+    Basu and Murtaza Zafer
+  venue: 2011 Proceedings IEEE INFOCOM
+  year: 2011
+  citations: 19
+  url: https://ieeexplore.ieee.org/abstract/document/5935006/
+- title: A shared sensor network infrastructure
+  authors: Christos Efstratiou and Ilias Leontiadis and Cecilia Mascolo and Jon Crowcroft
+  venue: Proceedings of the 8th ACM Conference on Embedded Networked Sensor Systems
+    …, 2010
+  year: 2010
+  citations: 42
+  url: https://dl.acm.org/doi/abs/10.1145/1869983.1870026
+- title: A content dissemination framework for vehicular networking
+  authors: Various Authors
+  venue: UCL (University College London), 2010
+  year: '2010'
+  citations: 5
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:WF5omc3nYNoC
+- title: Extending access point connectivity through opportunistic routing in vehicular
+    networks
+  authors: Ilias Leontiadis and Paolo Costa and Cecilia Mascolo
+  venue: 2010 Proceedings IEEE INFOCOM
+  year: 2010
+  citations: 83
+  url: https://ieeexplore.ieee.org/abstract/document/5462185/
+- title: A hybrid approach for content-based publish/subscribe in vehicular networks
+  authors: Ilias Leontiadis and Paolo Costa and Cecilia Mascolo
+  venue: Pervasive and Mobile Computing
+  year: 2009
+  citations: 69
+  url: https://www.sciencedirect.com/science/article/pii/S1574119209000662
+- title: Persistent content-based information dissemination in hybrid vehicular networks
+  authors: Ilias Leontiadis and Paolo Costa and Cecilia Mascolo
+  venue: 2009 IEEE International Conference on Pervasive Computing and Communications
+  year: 2009
+  citations: 87
+  url: https://ieeexplore.ieee.org/abstract/document/4912758/
+- title: Publish/subscribe notification middleware for vehicular networks
+  authors: Ilias Leontiadis
+  venue: Proceedings of the 4th on Middleware doctoral symposium, 1-6, 2007
+  year: 2007
+  citations: 52
+  url: https://dl.acm.org/doi/abs/10.1145/1377934.1377936
+- title: 'GeOpps: Geographical opportunistic routing for vehicular networks'
+  authors: Ilias Leontiadis and Cecilia Mascolo
+  venue: 2007 IEEE international symposium on a world of wireless, mobile and multimedia
+    networks
+  year: 2007
+  citations: 506
+  url: https://ieeexplore.ieee.org/abstract/document/4351688/
+- title: Opportunistic spatio-temporal dissemination system for vehicular networks
+  authors: Ilias Leontiadis and Cecilia Mascolo
+  venue: Proceedings of the 1st international MobiSys workshop on Mobile …, 2007
+  year: 2007
+  citations: 144
+  url: https://dl.acm.org/doi/abs/10.1145/1247694.1247702
+- title: 'Geopps: Opportunistic geographical routing for vehicular networks'
+  authors: Ilias Leontiadis and Cecilia Mascolo
+  venue: Proceedings of the IEEE Workshop on Autonomic and Opportunistic Communications.(Colocated
+    with WOWMOM07), Helsinki, Finland
+  year: 2007
+  citations: 41
+  url: https://scholar.google.com/scholar?cluster=6329911212955960131&hl=en&oi=scholarr
+- title: Creating and maintaining replicas in unstructured peer-to-peer systems
+  authors: Elias Leontiadis and Vassilios V Dimakopoulos and Evaggelia Pitoura
+  venue: European Conference on Parallel Processing, 1015-1025, 2006
+  year: 2006
+  citations: 44
+  url: https://link.springer.com/chapter/10.1007/11823285_107
+- title: Cache updates in a peer-to-peer network of mobile agents
+  authors: Elias Leontiadis and Vassilios V Dimakopoulos and Evaggelia Pitoura
+  venue: Proceedings. Fourth International Conference on Peer-to-Peer Computing, 2004.
+    Proceedings.
+  year: 2004
+  citations: 19
+  url: https://ieeexplore.ieee.org/abstract/document/1334926/
+- title: A portable C compiler for OpenMP V. 2.0
+  authors: Vassilios V Dimakopoulos and Elias Leontiadis and George Tzoumas
+  venue: Proc. EWOMP
+  year: 2003
+  citations: 83
+  url: https://www.academia.edu/download/72418131/86ewomp03.pdf
+- title: OMPi compiler homepage
+  authors: Various Authors
+  venue: Scholarly Publication
+  year: '2003'
+  citations: 3
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:M05iB0D1s5AC
+- title: OpenMP C Parser
+  authors: Various Authors
+  venue: December, 2001
+  year: '2001'
+  citations: 3
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:YsMSGLbcyi4C
+- title: International Workshop on Cybersafety Organization
+  authors: Various Authors
+  venue: Scholarly Publication
+  year: null
+  citations: 0
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:1qzjygNMrQYC
+- title: '2021 IEEE 32nd International Conference on Application-specific Systems,
+    Architectures and Processors (ASAP)| 978-1-6654-2701-2/21/$31.00© 2021 IEEE| DOI:
+    10.1109/ASAP52443 …'
+  authors: Various Authors
+  venue: Scholarly Publication
+  year: null
+  citations: 0
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:8AbLer7MMksC
+- title: An Opportunistic Traffic Management System for Vehicular Networks
+  authors: Various Authors
+  venue: Scholarly Publication
+  year: null
+  citations: 0
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:NhqRSupF_l8C
+- title: Detecting Social Interactions using Multi-Modal Mobile Sensing
+  authors: Various Authors
+  venue: Scholarly Publication
+  year: null
+  citations: 0
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:D03iK_w7-QYC
+- title: Algorithm and Scheduler Design and Implementation
+  authors: Various Authors
+  venue: Scholarly Publication
+  year: null
+  citations: 0
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:dfsIfKJdRG4C
+- title: Use Case Elaboration and Requirements Specification
+  authors: Various Authors
+  venue: Scholarly Publication
+  year: null
+  citations: 0
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:4OULZ7Gr8RgC
+- title: 2nd International Workshop on Vehicular Communications and Applications (VCA’13)
+  authors: Various Authors
+  venue: Scholarly Publication
+  year: null
+  citations: 0
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:IWHjjKOFINEC
+- title: 'SpotME If You Can: Randomized Responses for Location Obfuscation in Mobile
+    Systems'
+  authors: Various Authors
+  venue: Scholarly Publication
+  year: null
+  citations: 0
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:4TOpqqG69KYC
+- title: Dimitris Sacharidis, Research Center" Athena", Greece Somak Sen, University
+    of Kentucky, USA Janaka Weerathunga Yapa Seneviratne, The University of Melbourne,
+    Australia
+  authors: Various Authors
+  venue: Scholarly Publication
+  year: null
+  citations: 0
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:_kc_bZDykSQC
+- title: MASCOTS 2011 Additional Reviewers
+  authors: Various Authors
+  venue: Scholarly Publication
+  year: null
+  citations: 0
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:YOwf2qJgpHMC
+- title: P2P
+  authors: Various Authors
+  venue: Scholarly Publication
+  year: null
+  citations: 0
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:ULOm3_A8WrAC
+- title: P2P
+  authors: Various Authors
+  venue: Scholarly Publication
+  year: null
+  citations: 0
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:Zph67rFs4hoC
+- title: Evaluating an Anonymity Framework in SIP
+  authors: Various Authors
+  venue: Scholarly Publication
+  year: null
+  citations: 0
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:roLk4NBRz8UC
+- title: DTMN 2008 Organizing Committee
+  authors: Various Authors
+  venue: Scholarly Publication
+  year: null
+  citations: 0
+  url: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=HAOtV_AAAAAJ:W7OEmFMy1HYC

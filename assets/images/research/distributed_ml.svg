@@ -1,0 +1,23 @@
+<svg width="440" height="280" viewBox="0 0 440 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="440" height="280" fill="#f8f9fa"/>
+  
+  <!-- Central Server -->
+  <circle cx="220" cy="130" r="40" fill="#204a87"/>
+  <rect x="205" y="115" width="30" height="30" fill="#fff" opacity="0.2"/>
+  
+  <!-- Distributed Nodes -->
+  <circle cx="100" cy="60" r="15" fill="#204a87" opacity="0.6"/>
+  <circle cx="340" cy="60" r="15" fill="#204a87" opacity="0.6"/>
+  <circle cx="100" cy="200" r="15" fill="#204a87" opacity="0.6"/>
+  <circle cx="340" cy="200" r="15" fill="#204a87" opacity="0.6"/>
+  <circle cx="220" cy="220" r="15" fill="#204a87" opacity="0.6"/>
+  
+  <!-- Connections -->
+  <line x1="115" y1="70" x2="185" y2="110" stroke="#204a87" stroke-width="2" opacity="0.3"/>
+  <line x1="325" y1="70" x2="255" y2="110" stroke="#204a87" stroke-width="2" opacity="0.3"/>
+  <line x1="115" y1="190" x2="185" y2="150" stroke="#204a87" stroke-width="2" opacity="0.3"/>
+  <line x1="325" y1="190" x2="255" y2="150" stroke="#204a87" stroke-width="2" opacity="0.3"/>
+  <line x1="220" y1="205" x2="220" y2="170" stroke="#204a87" stroke-width="2" opacity="0.3"/>
+
+  <text x="220" y="260" font-family="Arial, sans-serif" font-size="18" fill="#204a87" text-anchor="middle" font-weight="bold">Distributed ML</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg width="440" height="280" viewBox="0 0 440 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="440" height="280" fill="#f8f9fa"/>
+  <circle cx="220" cy="140" r="80" fill="#e9ecef"/>
+  <!-- Neural Network Nodes -->
+  <circle cx="180" cy="110" r="10" fill="#204a87" opacity="0.6"/>
+  <circle cx="180" cy="140" r="10" fill="#204a87" opacity="0.6"/>
+  <circle cx="180" cy="170" r="10" fill="#204a87" opacity="0.6"/>
+  
+  <circle cx="220" cy="110" r="12" fill="#204a87"/>
+  <circle cx="220" cy="140" r="12" fill="#204a87"/>
+  <circle cx="220" cy="170" r="12" fill="#204a87"/>
+  
+  <circle cx="260" cy="125" r="10" fill="#204a87" opacity="0.6"/>
+  <circle cx="260" cy="155" r="10" fill="#204a87" opacity="0.6"/>
+  
+  <!-- Connections -->
+  <line x1="180" y1="110" x2="220" y2="110" stroke="#204a87" stroke-width="2" opacity="0.3"/>
+  <line x1="180" y1="110" x2="220" y2="140" stroke="#204a87" stroke-width="2" opacity="0.3"/>
+  <line x1="180" y1="140" x2="220" y2="110" stroke="#204a87" stroke-width="2" opacity="0.3"/>
+  <line x1="180" y1="140" x2="220" y2="140" stroke="#204a87" stroke-width="2" opacity="0.3"/>
+  <line x1="180" y1="140" x2="220" y2="170" stroke="#204a87" stroke-width="2" opacity="0.3"/>
+  <line x1="180" y1="170" x2="220" y2="140" stroke="#204a87" stroke-width="2" opacity="0.3"/>
+  <line x1="180" y1="170" x2="220" y2="170" stroke="#204a87" stroke-width="2" opacity="0.3"/>
+  
+  <line x1="220" y1="110" x2="260" y2="125" stroke="#204a87" stroke-width="2" opacity="0.3"/>
+  <line x1="220" y1="140" x2="260" y2="125" stroke="#204a87" stroke-width="2" opacity="0.3"/>
+  <line x1="220" y1="140" x2="260" y2="155" stroke="#204a87" stroke-width="2" opacity="0.3"/>
+  <line x1="220" y1="170" x2="260" y2="155" stroke="#204a87" stroke-width="2" opacity="0.3"/>
+
+  <!-- Evaluation Gauge -->
+  <path d="M 320 180 A 40 40 0 0 1 360 140" fill="none" stroke="#204a87" stroke-width="4" stroke-linecap="round"/>
+  <path d="M 310 140 L 330 140" fill="none" stroke="#204a87" stroke-width="4" stroke-linecap="round"/>
+  
+  <text x="220" y="240" font-family="Arial, sans-serif" font-size="18" fill="#204a87" text-anchor="middle" font-weight="bold">Llama 3 &amp; 4 Eval</text>
+</svg>
