@@ -20,7 +20,7 @@ permalink: /publications/
 </div>
 
 <p style="text-align: center; color: #666; font-size: 0.9em; margin-bottom: 40px;">
-  Latest updates from <a href="https://scholar.google.es/citations?user=HAOtV_AAAAAJ&hl=en" target="_blank">Google Scholar</a>. 
+  Latest updates from <a href="https://scholar.google.es/citations?user=HAOtV_AAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>. 
   Last synced: {{ site.data.publications.stats.last_updated | date: "%Y-%m-%d" }}
 </p>
 
@@ -33,11 +33,11 @@ permalink: /publications/
     {% for pub in year_group.items %}
       <div class="pub-item">
         <div class="pub-title">
-          <a href="{{ pub.url }}" target="_blank">{{ pub.title }}</a>
+          <a href="{{ pub.url | escape }}" target="_blank" rel="noopener noreferrer">{{ pub.title | escape }}</a>
         </div>
-        <div class="pub-authors">{{ pub.authors }}</div>
+        <div class="pub-authors">{{ pub.authors | escape }}</div>
         <div class="pub-venue">
-          <em>{{ pub.venue }}</em>, {{ pub.year }}
+          <em>{{ pub.venue | escape }}</em>, {{ pub.year | escape }}
           {% if pub.citations > 0 %}
             <span class="pub-citations"> — Cited by {{ pub.citations }}</span>
           {% endif %}

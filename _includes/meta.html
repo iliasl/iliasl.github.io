@@ -16,3 +16,10 @@
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="twitter:title" content="{{ page.title }}" />
     {% endif %}
+
+    {% if page.url == "/404.html" %}
+    <meta name="robots" content="noindex" />
+    {% else %}
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}" />
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}" />
+    {% endif %}

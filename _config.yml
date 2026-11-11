@@ -83,5 +83,10 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+  - README_SCHOLAR.md
+  - GEMINI.md
+  - scholar-sync
+  - scholar-sync.skill
+  - exec.txt
   - CNAME
   - vendor
